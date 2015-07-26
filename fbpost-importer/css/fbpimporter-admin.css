@@ -1,0 +1,81 @@
+.show {
+    display: block!important;
+}
+
+.hide {
+    display: none!important;
+}
+
+.fbpimporter-admin .fbpimporter-header {
+    margin-bottom: 30px;
+}
+
+.fbpimporter-admin .fbpimporter-form-fields {
+    margin-bottom: 30px;
+}
+
+.fbpimporter-admin .fbpimporter-form-field-wrapper {
+    margin-bottom: 20px;
+}
+
+.fbpimporter-admin .fbpimporter-form-field-wrapper input {
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.fbpimporter-admin .fbpimporter-form-field-label {
+    font-weight: 700;
+    margin-bottom: 5px;
+}
+
+.fbpimporter-admin .fbpimporter-status {
+    position: relative;
+}
+
+.fbpimporter-admin .fbpimporter-success, .fbpimporter-error, .fbpimporter-info {
+    margin-bottom: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.fbpimporter-admin .fbpimporter-success {
+    background-color: #dff0d8;
+    color: #3c763d;
+}
+
+.fbpimporter-admin .fbpimporter-error {
+    background-color: #f2dede;
+    color: #a94442;
+}
+
+.fbpimporter-admin .fbpimporter-info {
+    background-color: #dff0d8;
+    color: #3c763d;
+}
+
+.fbpimporter-admin .fbpimporter-error-msg li {
+    padding-left: 15px;
+}
+
+.fbpimporter-admin .fbpimporter-error-close {
+    position: absolute;
+    right: 10px;
+    top: 5px;
+    cursor: pointer;
+    color: #d2d2d2;
+    font-size: 18px;
+}
+
+.fbpimporter-admin .form-options-submit {
+    padding: 7px 15px;
+    background-color: #7dbd2a;
+    border-radius: 5px;
+    border: 1px solid #7e961c;
+    color: white;
+    cursor: pointer;
+}
+
+.fbpimporter-admin .form-options-submit:hover {
+    background: #9bc930;
+    text-decoration: none;
+}

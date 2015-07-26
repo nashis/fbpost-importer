@@ -1,0 +1,49 @@
+@import url(//fonts.googleapis.com/css?family=Ubuntu);
+
+.fbpimporter-plugin-container .fbpimporter-post-wrapper {
+    border: 1px solid #E5E5E5;
+    width: 200px;
+    overflow: hidden;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background-color: #E4E4F9;
+    min-height: 180px;
+}
+
+.fbpimporter-plugin-container .fbpimporter-post-title-wrapper {
+    font-size: 14px;
+    line-height: 19px;
+    font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
+    padding: 5px;
+    clear: both;
+}
+
+.fbpimporter-plugin-container .fbpimporter-post-social-wrapper {
+    margin-left: 130px;
+    padding: 0px 5px;
+    position: relative;
+    margin-top: 25px;
+}
+
+.fbpimporter-plugin-container .fbpimporter-social-like {
+    overflow: hidden;
+}
+
+.fbpimporter-plugin-container .fbpimporter-social-like .fbpimporter-social-share {
+    position: absolute;
+    top: 0px;
+    right: 5px;
+}
+
+.fbpimporter-plugin-container .fbpimporter-post-image-wrapper {
+    float: left;
+}
+
+.fbpimporter-plugin-container .fbpimporter-post-link {
+    border: none!important;
+    color: #003399;
+}
+
+.fbpimporter-plugin-container .fbpimporter-post-link:hover {
+    color: #333;
+}
